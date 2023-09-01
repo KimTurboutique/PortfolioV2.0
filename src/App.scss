@@ -4,17 +4,22 @@ $primary-color: #974EDE;
 
 @font-face{
   font-family: 'Cheeky Rabbit';
-  src: url('./assets/fonts/cheekyRabbit.ttf'); format('ttf');
+  src: url('../src/assets/cheekyRabbit.ttf'); format('ttf');
 }
 
 @font-face{
   font-family: 'La Belle Helene';
-  src: url('./assets/fonts/laBelleHelene.ttf'); format('ttf');
+  src: url('../src/assets/laBelleHelene.ttf'); format('ttf');
 }
 
 @font-face{
   font-family: 'JMH Typewriter';
-  src: url('./assets/fonts/JMHtypewriter.otf'); format('otf');
+  src: url('../src/assets/JMH\ Typewriter.ttf'); format('ttf');
+}
+
+input,
+textarea {
+  font-family: Helvetica;
 }
 // .App {
 //   text-align: center;
