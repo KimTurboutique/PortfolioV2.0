@@ -9,7 +9,8 @@
 ### Tools/Technologies used:
 
 - React
-- 
+- SCSS
+- Animate CSS
 - VSC
 
 
