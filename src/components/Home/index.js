@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import './index.scss';
+import ProfilePic from './ProfilePic';
 
 const Home = () => {
     return(
@@ -7,13 +8,13 @@ const Home = () => {
             <div className="text-zone">
                 <h1>Hi,
                     <br />
-                    I'm Kimberly
+                    I'm Kimberly.
                 </h1>
 
-                <h2>Junior Full Stack Developer / Javascript, React &  SCSS Proficient</h2>
+                <h2>Junior Full Stack Developer / Javascript, React &  SCSS Proficient / Database Management</h2>
                 <Link to="/contact" className='flat-button'> CONTACT ME </Link>
             </div>
-
+            <ProfilePic />
         </div>
     )
 }
