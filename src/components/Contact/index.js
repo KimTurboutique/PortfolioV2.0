@@ -10,10 +10,10 @@ const Contact = () => {
         
         emailjs
             .sendForm(
-                'gmail',
+                'service_06cttmg',
                 'template_nx12lwm',
                 refForm.current,
-                'N1dPZlIFyOND8OiZVEAqF',
+                'bwOq3yhOkHuvyWU4N',
             )
             .then(
                 () => {
