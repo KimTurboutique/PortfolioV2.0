@@ -12,6 +12,7 @@ const Home = () => {
                 </h1>
 
                 <h2>Junior Full Stack Developer / Javascript, React &  SCSS Proficient / Database Management</h2>
+                <h2>📍South Florida</h2>
                 <Link to="/contact" className='flat-button'> CONTACT ME </Link>
             </div>
             <ProfilePic />
