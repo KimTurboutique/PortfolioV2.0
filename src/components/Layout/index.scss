@@ -38,7 +38,8 @@
     animation-delay: 1s;
 }
 
-.about-page {
+.about-page,
+.contact-page {
     .text-zone {
         position: absolute;
         left: 20%;
@@ -50,7 +51,7 @@
         max-height: 90%;
 
         h1 {
-            font-size: 70px;
+            font-size: 50px;
             font-family: 'Cheeky Rabbit';
             color: white;
             position: relative;
@@ -83,9 +84,9 @@
         p {
             font-style: 50px;
             font-size: 15px;
-            color: goldenrod;
+            color: gold;
             font-family: sans-serif;
-            font-weight: 300;
+            font-weight: 600;
             min-width: fit-content;
             animation: pulse 1s;
 
@@ -105,7 +106,7 @@
 
     .text-animate-hover {
         &:hover {
-            color: goldenrod;
+            color: gold;
         }
     }
 }
