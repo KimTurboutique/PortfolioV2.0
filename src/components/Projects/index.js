@@ -12,7 +12,8 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Link from '@mui/material/Link';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import turboutique from '../../assets/images/turboutique.net.png'
+import turboutique from '../../assets/images/turboutique.net.png';
+import wkdayscheduler from '../../assets/images/wkdaysched.png'
 
 function Copyright() {
     return (
@@ -31,8 +32,8 @@ const cards = [
     {
         id: 1,
         image: '',
-        heading: '',
-        content: '',
+        heading: 'Carpointment App',
+        content: 'Under Development 🚧 👷🏾‍♀️',
     },
     {
         id: 2,
@@ -43,9 +44,10 @@ const cards = [
     },
     {
         id: 3,
-        image: '',
-        heading: '',
-        content: '',
+        image: wkdayscheduler,
+        heading: 'Work Day Scheduler',
+        content: 'Schedule your workday in a simple way!',
+        live:'https://kimturboutique.github.io/WorkDay_Scheduler/'
     }];
 
 const customTheme = createTheme({
