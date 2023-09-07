@@ -39,7 +39,7 @@ const cards = [
         id: 2,
         image: turboutique,
         heading: 'Turboutique.net',
-        content: 'An E-commerce auto parts store for new & useds auto parts.',
+        content: 'An E-commerce auto parts store for new & used auto parts.',
         live: 'https://turboutique.net'
     },
     {
@@ -99,7 +99,7 @@ export default function Album() {
                                     </CardContent>
                                     <CardActions>
                                         <a href={card.live} target='_blank'><Button size="small" variant="h1">View Live</Button></a>
-                                        <a href={card.github}><Button size="small" variant="h1">Source Code</Button></a>
+                                        <a href={card.github} target='_blank'><Button size="small" variant="h1">Source Code</Button></a>
                                     </CardActions>
                                 </Card>
                             </Grid>
