@@ -11,7 +11,7 @@ const Home = () => {
                     I'm Kimberly.
                 </h1>
 
-                <h2>Junior Full Stack Developer / Javascript & React Proficient / Database Management</h2>
+                <h2>Junior Full Stack Developer </h2>
                 <h2>📍South Florida</h2>
                 <Link to="/contact" className='flat-button'> CONTACT ME </Link>
             </div>

@@ -59,7 +59,6 @@
             left: 2px;
 
             &::before {
-               content: '<h1>';
                font-family: 'La Belle Helene';
                font-size: 18px;
                position: absolute;
@@ -70,7 +69,6 @@
             }
 
             &::after {
-               content: '</h1>';
                font-family: 'La Belle Helene';
                font-size: 18px;
                position: absolute;
