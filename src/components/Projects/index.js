@@ -47,7 +47,8 @@ const cards = [
         image: wkdayscheduler,
         heading: 'Work Day Scheduler',
         content: 'Schedule your workday in a simple way!',
-        live:'https://kimturboutique.github.io/WorkDay_Scheduler/'
+        live:'https://kimturboutique.github.io/WorkDay_Scheduler/',
+        github: 'https://github.com/KimTurboutique/WorkDay_Scheduler'
     }];
 
 const customTheme = createTheme({
