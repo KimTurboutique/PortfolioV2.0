@@ -34,6 +34,7 @@ const cards = [
         image: '',
         heading: 'Carpointment App',
         content: 'Under Development 🚧 👷🏾‍♀️',
+        github: 'https://github.com/KimTurboutique/Carpointment_App'
     },
     {
         id: 2,
@@ -71,7 +72,8 @@ export default function Album() {
                     alignItems: 'center',
                     justifyContent: 'center',
                     minHeight: '50vh',
-                    bgcolor: 'background.default',           
+                    bgcolor: 'background.default',
+                    ml: {xs: '120px', sm: '120px' }           
                 }}
             >
                 <Container component="main" sx={{ py: 8 }}>
