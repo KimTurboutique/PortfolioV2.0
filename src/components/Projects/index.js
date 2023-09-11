@@ -100,8 +100,8 @@ export default function Album() {
                                         </Typography>
                                     </CardContent>
                                     <CardActions>
-                                        <a href={card.live} target='_blank'><Button size="small" variant="h1">View Live</Button></a>
-                                        <a href={card.github} target='_blank'><Button size="small" variant="h1">Source Code</Button></a>
+                                        <a href={card.live} target="_blank" rel="noreferrer"><Button size="small" variant="h1">View Live</Button></a>
+                                        <a href={card.github} target="_blank" rel="noreferrer"><Button size="small" variant="h1">Source Code</Button></a>
                                     </CardActions>
                                 </Card>
                             </Grid>
