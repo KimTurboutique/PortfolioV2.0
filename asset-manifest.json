@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/PortfolioV2.0/static/css/main.acb3fb64.css",
-    "main.js": "/PortfolioV2.0/static/js/main.85184559.js",
+    "main.js": "/PortfolioV2.0/static/js/main.58749be4.js",
     "static/js/787.105828f4.chunk.js": "/PortfolioV2.0/static/js/787.105828f4.chunk.js",
     "static/media/profilePic.svg": "/PortfolioV2.0/static/media/profilePic.9e5d5d876791202f20b9e98b9710195a.svg",
+    "static/media/carpointment.png": "/PortfolioV2.0/static/media/carpointment.ca0cf8784e2f6ef4b642.png",
     "static/media/turboutique.net.png": "/PortfolioV2.0/static/media/turboutique.net.6f1853f4be25133d689b.png",
     "static/media/JMH Typewriter.ttf": "/PortfolioV2.0/static/media/JMH Typewriter.cfe2f95116145cd7bacf.ttf",
     "static/media/wkdaysched.png": "/PortfolioV2.0/static/media/wkdaysched.15ef93bfb76e8e8b28aa.png",
@@ -12,11 +13,11 @@
     "static/media/cheekyRabbit.ttf": "/PortfolioV2.0/static/media/cheekyRabbit.16a7fbc8cf76d01aa6e0.ttf",
     "index.html": "/PortfolioV2.0/index.html",
     "main.acb3fb64.css.map": "/PortfolioV2.0/static/css/main.acb3fb64.css.map",
-    "main.85184559.js.map": "/PortfolioV2.0/static/js/main.85184559.js.map",
+    "main.58749be4.js.map": "/PortfolioV2.0/static/js/main.58749be4.js.map",
     "787.105828f4.chunk.js.map": "/PortfolioV2.0/static/js/787.105828f4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acb3fb64.css",
-    "static/js/main.85184559.js"
+    "static/js/main.58749be4.js"
   ]
 }
