@@ -4,7 +4,7 @@
 
 ## Deployed Link:
 
-* [Kimberly R. Portfolio]()
+* [Kimberly R. Portfolio](https://kimturboutique.github.io/PortfolioV2.0/)
 
 ### Tools/Technologies used:
 

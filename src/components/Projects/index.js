@@ -32,7 +32,7 @@ function Copyright() {
 const cards = [
     {
         id: 1,
-        image: 'carpointment',
+        image: carpointment,
         heading: 'Carpointment App',
         content: 'Under Development 🚧 👷🏾‍♀️',
         github: 'https://github.com/KimTurboutique/Carpointment_App'
