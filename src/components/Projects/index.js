@@ -34,8 +34,9 @@ const cards = [
         id: 1,
         image: carpointment,
         heading: 'Carpointment App',
-        content: 'Under Development 🚧 👷🏾‍♀️',
-        github: 'https://github.com/KimTurboutique/Carpointment_App'
+        content: 'An app designed to schedule your maintenance appointment and getting your car in and out of the repair shop as stress-free and quickly as possible.',
+        github: 'https://github.com/KimTurboutique/Carpointment_App',
+        live: 'https://carpointment-e4f8d52722e3.herokuapp.com/'
     },
     {
         id: 2,
